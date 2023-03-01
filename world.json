@@ -24,7 +24,7 @@
     ]
   },
   "url": "https://github.com/Omar-19/gnomeregan",
-  "manifest": "https://raw.githubusercontent.com/Omar-19/gnomeregan/world.json",
+  "manifest": "https://raw.githubusercontent.com/Omar-19/gnomeregan/main/world.json",
   "download": "https://github.com/Omar-19/gnomeregan/archive/refs/heads/main.zip",
   "systemVersion": "2.1.5",
   "coreVersion": "10.291",
